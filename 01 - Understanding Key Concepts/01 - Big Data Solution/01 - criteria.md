@@ -1,4 +1,4 @@
-1. Scalability: Ability of a system to increase or decrease performance to increase or decreases performance in response to demand
+1. Scalability: Ability of a system to increase or decrease performance in response to demand
 
    - **Vertical scaling**
      - Using a bigger machine(or server) to handle more requests
